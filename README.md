@@ -1,6 +1,6 @@
 👋 Hi, I’m Robah Adewuyi. 
 
-💼 I'm a data analyst enthusiast based in Lagos. I am currently seeking internships and junior role opportuinities 
+💼 I'm a Junior data analyst based in Lagos. I am currently seeking internships and junior role opportuinities 
 
 👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and Adobe Analytics.  
 
